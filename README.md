@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Francesco Macrì</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Francesco+Macrì!;" />
+</h1>
+
 
 ## 🛠️ Languages and Tools
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,latex" />
+  <img src="https://skillicons.dev/icons?i=python,octave,matlab,r,latex" />
   <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a>
   <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
