@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Francesco+Macrì!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=43&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=5000&lines=Hi+There!+👋;+I'm+Francesco+Macrì!;" />
 </h1>
 
 
@@ -27,6 +27,8 @@
 </div>
 
 <hr>
+
+##  🐍  Snake Eating My Contributions (Animation)
 
 ![Snake Animation](https://github.com/francescomacri/francescomacri/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg)
 
