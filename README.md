@@ -28,7 +28,7 @@
 
 <hr>
 
-##  🐍 Animation
+##  🐍  Animation
 
 ![Snake Animation](https://github.com/francescomacri/francescomacri/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg)
 
