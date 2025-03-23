@@ -8,9 +8,9 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,octave,matlab,r,latex" />
+  <img src="https://skillicons.dev/icons?i=python,octave,matlab,r,anaconda,latex,md" />
   <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a>
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,bash,linux" />
 </p>
 
 
