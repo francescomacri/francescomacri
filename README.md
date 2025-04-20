@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my blog on mathematics.
 - 🌱 I’m currently learning Discrete Mathematics.
-- ❤️ I love writing Python.
+- ❤️ I love writing proofs in mathematics.
   
 ## 🛠️ Languages and Tools
 
