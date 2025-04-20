@@ -9,7 +9,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,octave,matlab,anaconda,latex,lean" />
+  <img src="https://skillicons.dev/icons?i=python,octave,matlab,anaconda,latex" />
 </p>
 
 ## ⚡️ Stats
