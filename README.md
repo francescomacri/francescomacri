@@ -3,7 +3,7 @@
 ## About Me
 
 - 🔭 I’m currently working on my math blog.
-- 🌱 I’m currently learning Lean.
+- 🌱 I’m currently learning LEAN.
 - ❤️ I love writing code in Python.
   
 ## 🛠️ Languages and Tools
