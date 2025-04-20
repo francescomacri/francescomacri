@@ -20,6 +20,15 @@
 
 ![Snake Animation](https://github.com/francescomacri/francescomacri/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg)
 
+## Get in touch :coffee:
+
+<br>
+
+- [Personal Blog](https://www.piecesofmathematics.com)
+- [Mastodon](https://mathstodon.xyz/@pieces_of_mathematics)
+- [Bluesky](https://bsky.app/profile/pcsofmath.bsky.social)
+
+
 <!--
 **francescomacri/francescomacri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
