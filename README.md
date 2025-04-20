@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 🔭 (After a very long period) I’m currently working on my blog.
-- 🌱 I’m currently learning Discrete Mathematics.
+- 🔭 I’m currently working on my blog on mathematics.
+- 🌱 I’m currently learning a lot of different things.
 - ❤️ I love writing Python.
   
 ## 🛠️ Languages and Tools
