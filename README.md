@@ -3,7 +3,7 @@
 ## About Me
 
 - 🔭 I’m currently working on my math blog.
-- 🌱 I’m currently learning Discrete Mathematics.
+- 🌱 I’m currently learning the Rocq Prover.
 - ❤️ I love writing code in Python.
   
 ## 🛠️ Languages and Tools
