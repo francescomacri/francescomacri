@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,octave,matlab,latex" />
+  <img src="https://skillicons.dev/icons?i=python,octave,matlab,anaconda,latex" />
 </p>
 
 ## ⚡️ Stats
