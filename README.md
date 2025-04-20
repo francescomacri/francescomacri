@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 🔭 (After a very long period) I’m currently working on my blog [Pieces of Mathematics](https://www.piecesofmathematics.com).
-- 🌱 I’m currently learning **Discrete Mathematics**.
+- 🔭 (After a very long period) I’m currently working on my blog.
+- 🌱 I’m currently learning Discrete Mathematics.
 - ❤️ I love writing Python.
   
 ## 🛠️ Languages and Tools
