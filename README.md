@@ -1,3 +1,5 @@
+<h3 align="center">👋 Hello! I'm Jason.</h3>
+
 ## About Me
 
 <br>
