@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 🔭 I’m currently working on my blog on mathematics.
+- 🔭 I’m currently working on my math blog.
 - 🌱 I’m currently learning Discrete Mathematics.
-- ❤️ I love writing proofs in mathematics.
+- ❤️ I love writing code in Python.
   
 ## 🛠️ Languages and Tools
 
