@@ -2,23 +2,17 @@
 
 ## About Me
 
-<br>
-
 - 🔭 (After a very long period) I’m currently working on my blog [Pieces of Mathematics](https://www.piecesofmathematics.com).
 - 🌱 I’m currently learning **Discrete Mathematics**.
 - ❤️ I love writing Python.
   
 ## 🛠️ Languages and Tools
 
-<br>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,octave,matlab,anaconda,latex" />
 </p>
 
 ## ⚡️ Stats
-
-<br>
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=francescomacri&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Francesco Macrì's GitHub Stats" />
@@ -31,8 +25,6 @@
 ![Snake Animation](https://github.com/francescomacri/francescomacri/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg)
 
 ## Get in touch :coffee:
-
-<br>
 
 - [Personal Blog: Pieces of Mathematics](https://www.piecesofmathematics.com)
 - [Mastodon](https://mathstodon.xyz/@pieces_of_mathematics)
