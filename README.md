@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my math blog.
 - 🌱 I’m currently learning LEAN, the dependently typed programming language and proof assistant.
-- ❤️ I love writing code in Python.
+- ❤️ I love writing code in Python. and
   
 ## 🛠️ Languages and Tools
 
