@@ -2,10 +2,11 @@
 
 Hi, I’m Francesco Macrì ~ $ 8itGr1nd3r, a math enthusiast studying the subject and blogging about it. I’m also passionate about exploring the intersection of mathematics and technology.
 
-- :telescope: I’m currently working on my math blog.
-- :seedling: I’m currently learning LEAN, the dependently typed programming language and proof assistant.
-- :snake: I love writing code in Python.
-- :detective: I’m passionate about cybersecurity and creative problem solving.
+- :telescope: Currently working on my math blog.
+- :seedling: Learning LEAN, the dependently typed programming language and proof assistant.
+- :snake: Love writing code in Python.
+- :detective: Passionate about cybersecurity and creative problem solving.
+- :mag_right: Sometimes searching for :bug: :bug: :bug: — not just the math kind!
   
 ## Languages and Tools :wrench:
 
