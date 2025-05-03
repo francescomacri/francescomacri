@@ -1,5 +1,3 @@
-<h3 align="center">👋 Hello! I'm Francesco Macrì.</h3>
-
 ## About Me
 
 - 🔭 I’m currently working on my math blog.
