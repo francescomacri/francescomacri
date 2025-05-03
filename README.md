@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my math blog.
 - 🌱 I’m currently learning LEAN, the dependently typed programming language and proof assistant.
 - :sparkles: I love writing code in Python.
-- :heavy_dollar_sign: I’m passionate about cybersecurity :bug: and creative problem solving :bulb:.
+- :mag: I’m passionate about cybersecurity :bug: and creative problem solving :bulb:.
   
 ## 🛠️ Languages and Tools
 
