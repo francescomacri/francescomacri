@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I’m Francesco Macrì ~ $ Di5kr3te, a math enthusiast, studying the subject and blogging about it. I’m passionate about cybersecurity, creative problem solving, and exploring the intersection of mathematics and technology.
+Hi, I’m Francesco Macrì ~ $ Di5kr3te, a math enthusiast, studying the subject and blogging about it. I’m also passionate about cybersecurity, creative problem solving, and exploring the intersection of mathematics and technology.
 
 - 🔭 I’m currently working on my math blog.
 - 🌱 I’m currently learning LEAN, the dependently typed programming language and proof assistant.
