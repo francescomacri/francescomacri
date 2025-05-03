@@ -5,8 +5,7 @@ Hi, I’m Francesco Macrì ~ $ 8itGr1nd3r, a math enthusiast studying the subjec
 - :telescope: Currently working on my math blog.
 - :seedling: Learning LEAN, the dependently typed programming language and proof assistant.
 - :snake: Love writing code in Python.
-- :detective: Passionate about cybersecurity and creative problem solving.
-- :mag_right: Sometimes searching for :bug: bugs—and not just the math kind!
+- :detective: Passionate about cybersecurity and creative problem solving. - Sometimes searching for :bug: bugs—and not just the math kind!
   
 ## Languages and Tools :hammer_and_wrench:
 
