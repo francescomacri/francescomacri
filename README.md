@@ -8,7 +8,7 @@ Hi, I’m Francesco Macrì ~ $ 8itGr1nd3r, a math enthusiast studying the subjec
 - :detective: Passionate about cybersecurity and creative problem solving.
 - :mag_right: Sometimes searching for :bug: bugs—and not just the math kind!
   
-## Languages and Tools :wrench:
+## Languages and Tools :hammer_and_wrench:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,octave,matlab,anaconda,latex" />
