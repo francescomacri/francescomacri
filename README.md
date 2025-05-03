@@ -1,5 +1,7 @@
 ## About Me
 
+Hi, I’m Francesco Macrì ~ $ Di5kr3te
+
 - 🔭 I’m currently working on my math blog.
 - 🌱 I’m currently learning LEAN, the dependently typed programming language and proof assistant.
 - :sparkles: I love writing code in Python.
