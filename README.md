@@ -1,19 +1,19 @@
-## About Me
+## About Me :bust_in_silhouette:
 
-Hi, I’m Francesco Macrì ~ $ Di5kr3te, a math enthusiast studying the subject and blogging about it. I’m also passionate about exploring the intersection of mathematics and technology.
+Hi, I’m Francesco Macrì ~ $ 8itGr1nd3r, a math enthusiast studying the subject and blogging about it. I’m also passionate about exploring the intersection of mathematics and technology.
 
-- 🔭 I’m currently working on my math blog.
-- 🌱 I’m currently learning LEAN, the dependently typed programming language and proof assistant.
-- :sparkles: I love writing code in Python.
-- :mag: I’m passionate about cybersecurity :bug: and creative problem solving :bulb:.
+- :telescope: I’m currently working on my math blog.
+- :seedling: I’m currently learning LEAN, the dependently typed programming language and proof assistant.
+- :snake: I love writing code in Python.
+- :detective: I’m passionate about cybersecurity and creative problem solving.
   
-## 🛠️ Languages and Tools
+## Languages and Tools :wrench:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,octave,matlab,anaconda,latex" />
 </p>
 
-## ⚡️ Stats
+## Stats :zap:
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=francescomacri&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Francesco Macrì's GitHub Stats" />
