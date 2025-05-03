@@ -24,7 +24,7 @@
 
 ## Get in touch :coffee:
 
-- [Personal Blog: Pieces of Mathematics](https://www.piecesofmathematics.com)
+- [Blog: Pieces of Mathematics](https://www.piecesofmathematics.com)
 - [Mastodon](https://mathstodon.xyz/@pieces_of_mathematics)
 - [Bluesky](https://bsky.app/profile/pcsofmath.bsky.social)
 
