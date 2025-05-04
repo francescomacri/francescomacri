@@ -14,7 +14,7 @@ Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathemat
 
 <!-- Start of centered table -->
 
-| Math Related | Formalization / Proof Oriented   | Program Verification | General Purpose |
+| Math Related | Formalization / Proof Assistent  | Program Verification | General Purpose |
 |--------------|----------------------------------|----------------------|-----------------|
 | MATLAB       | LEAN (currently learning)        | F *                  | Python          |
 | Octave       | F*   (future project)            |                      | C               |
