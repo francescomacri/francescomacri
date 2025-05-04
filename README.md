@@ -10,12 +10,19 @@ Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathemat
       
 ## Languages and Tools :hammer_and_wrench:
 
-| General Purpose | Math Related | Formalization / Proof Assistants |
+<div align="center">
+
+<!-- Start of centered table -->
+
+| General Purpose | Math Related | Formalization / Proof Oriented   |
 |-----------------|--------------|----------------------------------|
 | Python          | MATLAB       | LEAN (currently learning)        |
 | C               | Octave       | F*   (future project)            |
-| C++             | LaTeX        |                                  |
+|                 | LaTeX        |                                  |
 
+<!-- End of centered table -->
+
+</div>
 
 ## Stats :zap:
 
