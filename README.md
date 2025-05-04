@@ -1,11 +1,12 @@
 ## About Me :bust_in_silhouette:
 
-Hi, I’m Francesco Macrì (8itGr1nd3r), a math enthusiast studying the subject and blogging about it. I’m also passionate about exploring the intersection of mathematics and technology.
+Hi, I’m Francesco Macrì (8itGr1nd3r), a math enthusiast blogging about it. I love exploring the intersection of mathematics and technology.
 
-- :telescope: Currently working on my math blog.
-- :seedling: Learning LEAN, the dependently typed programming language and proof assistant.
-- :snake: Love writing code in Python.
-- :nut_and_bolt: Passionate about cybersecurity and creative problem solving.
+:telescope: Working on my math blog
+:seedling: Learning LEAN, the dependently typed programming language and proof assistant
+:bulb: Fascinated by creative problem solving
+:snake: Writing code in Python
+:nut_and_bolt: Exploring computer science, especially cybersecurity
   
 ## Languages and Tools :hammer_and_wrench:
 
