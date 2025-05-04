@@ -18,7 +18,8 @@ Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathemat
 |--------------|----------------------------------|----------------------|-----------------|
 | MATLAB       | LEAN (currently learning)        | F *                  | Python          |
 | Octave       | F*   (future project)            |                      | C               |
-| LaTeX        |                                  |                      |                 |
+| LaTeX        |                                  |                      | JavaScript      |
+| LaTeX        |                                  |                      | HTML/CSS        |
 
 <!-- End of centered table -->
 
