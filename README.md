@@ -5,7 +5,7 @@ Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathemat
 - :telescope: Working on my math blog
 - :seedling: Learning LEAN, the dependently typed programming language and proof assistant
 - :nut_and_bolt: Exploring computer science and its applications in mathematics
-- :sparkles: Enjoying programming in Python
+- :sparkles: Enjoying programming, algorithms and data structures
       
 ## Languages and Tools :hammer_and_wrench:
 
