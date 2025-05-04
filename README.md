@@ -4,9 +4,9 @@ Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathemat
 
 - :telescope: Working on my math blog
 - :seedling: Learning LEAN, the dependently typed programming language and proof assistant
-- :sparkles: Writing code, especially in Python
 - :nut_and_bolt: Exploring computer science
-  
+- :sparkles: Writing code, especially in Python
+    
 ## Languages and Tools :hammer_and_wrench:
 
 <p align="center">
@@ -33,16 +33,6 @@ Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathemat
 
 
 <!--
-**francescomacri/francescomacri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=francescomacri&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Francesco Macrì's GitHub Stats" />
   
