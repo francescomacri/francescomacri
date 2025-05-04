@@ -17,7 +17,7 @@ Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathemat
 | Math Related | Formalization / Proof Assistent  | Program Verification | General Purpose |
 |--------------|----------------------------------|----------------------|-----------------|
 | MATLAB       | LEAN (currently learning)        | F *                  | Python          |
-| Octave       | F*   (future project)            |                      | C               |
+| Octave       |                                  |                      | C               |
 | LaTeX        |                                  |                      |                 |
 
 <!-- End of centered table -->
