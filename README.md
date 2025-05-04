@@ -12,6 +12,7 @@ Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathemat
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,octave,matlab,anaconda,latex,vscode" />
 </p>
+
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ## Stats :zap:
