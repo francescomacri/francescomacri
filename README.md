@@ -20,8 +20,7 @@ Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathemat
 | Octave       |                                  |                      | C               |
 | Jupyter      |                                  |                      | HTML/CSS        |
 | Spyder       |                                  |                      | JavaScript      |
-| Conda        |                                  |                      | VSCode          |
-| LaTeX        |                                  |                      |                 |
+| LaTeX        |                                  |                      | VSCode          |
 
 <!-- End of centered table -->
 
