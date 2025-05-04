@@ -14,11 +14,11 @@ Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathemat
 
 <!-- Start of centered table -->
 
-| General Purpose | Math Related | Formalization / Proof Oriented   |
-|-----------------|--------------|----------------------------------|
-| Python          | MATLAB       | LEAN (currently learning)        |
-| C               | Octave       | F*   (future project)            |
-|                 | LaTeX        |                                  |
+| Math Related | Formalization / Proof Oriented   | Program Verification | General Purpose |
+|--------------|----------------------------------|----------------------|-----------------|
+| MATLAB       | LEAN (currently learning)        | F *                  | Python          |
+| Octave       | F*   (future project)            |                      | C               |
+| LaTeX        |                                  |                      |                 |
 
 <!-- End of centered table -->
 
