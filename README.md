@@ -10,7 +10,7 @@ Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathemat
 ## Languages and Tools :hammer_and_wrench:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,octave,matlab,anaconda,latex" />
+  <img src="https://skillicons.dev/icons?i=python,octave,matlab,anaconda,latex,vscode" />
 </p>
 
 ## Stats :zap:
