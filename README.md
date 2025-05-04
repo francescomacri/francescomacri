@@ -1,6 +1,6 @@
 ## About Me :bust_in_silhouette:
 
-Hi, I’m Francesco Macrì ~ $ 8itGr1nd3r, a math enthusiast studying the subject and blogging about it. I’m also passionate about exploring the intersection of mathematics and technology.
+Hi, I’m Francesco Macrì (aka 8itGr1nd3r), a math enthusiast studying the subject and blogging about it. I’m also passionate about exploring the intersection of mathematics and technology.
 
 - :telescope: Currently working on my math blog.
 - :seedling: Learning LEAN, the dependently typed programming language and proof assistant.
