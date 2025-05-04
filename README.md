@@ -4,9 +4,9 @@ Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathemat
 
 - :telescope: Working on my math blog
 - :seedling: Learning LEAN, the dependently typed programming language and proof assistant
-- :nut_and_bolt: Exploring computer science
+- :nut_and_bolt: Exploring topics in computer science
 - :sparkles: Enjoying programming, especially algorithms and data structures
-- :closed_lock_with_key: Interested in cryptography and the formal verification of its applications
+- :closed_lock_with_key: Interested in cryptography and the formal verification of its implementations
       
 ## Languages and Tools :hammer_and_wrench:
 
