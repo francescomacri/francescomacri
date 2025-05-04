@@ -10,9 +10,12 @@ Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathemat
       
 ## Languages and Tools :hammer_and_wrench:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,octave,matlab,anaconda,latex,vscode" />
-</p>
+| General Purpose | Math Related | Formalization / Proof Assistants |
+|-----------------|--------------|----------------------------------|
+| Python          | MATLAB       | LEAN (currently learning)        |
+| C               | Octave       | F*   (future project)            |
+| C++             | LaTeX        |                                  |
+
 
 ## Stats :zap:
 
@@ -34,6 +37,10 @@ Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathemat
 
 
 <!--
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,octave,matlab,anaconda,latex,vscode" />
+</p>
 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=francescomacri&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Francesco Macrì's GitHub Stats" />
   
