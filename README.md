@@ -6,7 +6,7 @@ Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathemat
 - :seedling: Learning LEAN, the dependently typed programming language and proof assistant
 - :nut_and_bolt: Exploring computer science and its applications in mathematics
 - :sparkles: Enjoying programming, especially playing with algorithms and data structures
-- :closed_lock_with_key: Interested in cryptography and formal verification
+- :closed_lock_with_key: Interested in cryptography and the formal verification of its applications
       
 ## Languages and Tools :hammer_and_wrench:
 
