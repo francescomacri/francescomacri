@@ -10,21 +10,9 @@ Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathemat
       
 ## Languages and Tools :hammer_and_wrench:
 
-<div align="center">
-
-<!-- Start of centered table -->
-
-| Math Related | Formalization / Proof Assistents | Program Verification | General Purpose | 
-|--------------|----------------------------------|----------------------|-----------------|
-| MATLAB       | LEAN (currently learning)        | F* (planned)         | Python          | 
-| Octave       |                                  |                      | C               |
-| Jupyter      |                                  |                      | HTML/CSS        |
-| Spyder       |                                  |                      | JavaScript      |
-| LaTeX        |                                  |                      | VSCode          |
-
-<!-- End of centered table -->
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,octave,matlab,anaconda,latex,vscode" />
+</p>
 
 ## Stats :zap:
 
@@ -47,9 +35,7 @@ Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathemat
 
 <!--
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,octave,matlab,anaconda,latex,vscode" />
-</p>
+
 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=francescomacri&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Francesco Macrì's GitHub Stats" />
   
