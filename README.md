@@ -2,7 +2,7 @@
 
 Hi, I’m Francesco Macrì, a math enthusiast who enjoys blogging about mathematics. I love exploring the intersection of mathematics and technology.
 
-- :telescope: Working on my math blog
+- :telescope: Currently working on my math blog
 - :seedling: Learning LEAN, the dependently typed programming language and proof assistant
 - :nut_and_bolt: Exploring topics in computer science
 - :sparkles: Enjoying programming, especially algorithms and data structures
