@@ -11,7 +11,7 @@ Hi, I’m Francesco Macrì—a math enthusiast passionate about blogging and exp
 ## Languages and Tools :hammer_and_wrench:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,octave,matlab,anaconda,latex,vscode" />
+  <img src="https://skillicons.dev/icons?i=c, python,octave,matlab,anaconda,latex,vscode" />
 </p>
 
 ## Stats :zap:
