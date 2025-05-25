@@ -4,21 +4,20 @@ Hi, I’m Francesco Macrì—a math enthusiast passionate about blogging and exp
 
 - :seedling: Learning LEAN, the dependently typed programming language and proof assistant
 
+## Get in touch :coffee:
+- [Blog: Pieces of Mathematics](https://www.piecesofmathematics.com)
+- [Mastodon](https://mathstodon.xyz/@pieces_of_mathematics)
+- [Bluesky](https://bsky.app/profile/pcsofmath.bsky.social)
+
 ## Stats :zap:
 
 <div align=center>
       <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=francescomacri&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Francesco Macrì's" />
 </div>
 
-<hr>
-
 ![Snake Animation](https://github.com/francescomacri/francescomacri/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg)
 
-## Get in touch :coffee:
 
-- [Blog: Pieces of Mathematics](https://www.piecesofmathematics.com)
-- [Mastodon](https://mathstodon.xyz/@pieces_of_mathematics)
-- [Bluesky](https://bsky.app/profile/pcsofmath.bsky.social)
 
 
 <!--
