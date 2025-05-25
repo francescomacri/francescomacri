@@ -1,6 +1,6 @@
 ## About Me :bust_in_silhouette:
 
-Hi, I’m Francesco Macrì—a math enthusiast passionate about blogging and exploring the intersection of mathematics and technology.
+Hi, I’m Francesco Macrì — a math enthusiast, studying the subject and blogging about it.
 
 - :seedling: Learning LEAN, the dependently typed programming language and proof assistant
 
