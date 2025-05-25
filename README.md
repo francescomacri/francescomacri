@@ -1,11 +1,9 @@
 ## About Me :bust_in_silhouette:
 
-Hi, I’m Francesco Macrì — a math enthusiast, studying the subject and blogging about it.
-
-- :seedling: Learning LEAN, the dependently typed programming language and proof assistant
+Hi, I’m Francesco Macrì — a math enthusiast, studying the subject and blogging about it on [Pieces of Mathematics](https://www.piecesofmathematics.com).
 
 ## Get in touch :coffee:
-- [Blog: Pieces of Mathematics](https://www.piecesofmathematics.com)
+
 - [Mastodon](https://mathstodon.xyz/@pieces_of_mathematics)
 - [Bluesky](https://bsky.app/profile/pcsofmath.bsky.social)
 
