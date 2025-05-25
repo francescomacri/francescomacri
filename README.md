@@ -7,11 +7,7 @@ Hi, I’m Francesco Macrì—a math enthusiast passionate about blogging and exp
 ## Stats :zap:
 
 <div align=center>
-      
-
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=francescomacri&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Francesco Macrì's" />
-    
-
+      <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=francescomacri&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Francesco Macrì's" />
 </div>
 
 <hr>
