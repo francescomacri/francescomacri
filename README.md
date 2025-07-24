@@ -1,6 +1,6 @@
 ## About Me :bust_in_silhouette:
 
-Hi, I’m Francesco Macrì — a math enthusiast, studying the subject and blogging about it on [Pieces of Mathematics](https://www.piecesofmathematics.com).
+Hi, I’m Francesco Macrì — a math enthusiast, self-studying the subject and blogging about it on [Pieces of Mathematics](https://www.piecesofmathematics.com).
 
 ## Get in touch :coffee:
 
