@@ -2,11 +2,6 @@
 
 Hi, I’m Francesco Macrì — an enthusiastic self-learner of math, blogging about the subject at: [Pieces of Mathematics](https://www.piecesofmathematics.com).
 
-## Get in touch :coffee:
-
-- [Mastodon](https://mathstodon.xyz/@pieces_of_mathematics)
-- [Bluesky](https://bsky.app/profile/pcsofmath.bsky.social)
-
 ![Snake Animation](https://github.com/francescomacri/francescomacri/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg)
 
 <!--
