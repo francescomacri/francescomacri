@@ -1,6 +1,3 @@
-## About Me :bust_in_silhouette:
-
-Hi, I’m Francesco Macrì — an enthusiastic self-learner of math, blogging about the subject at: [Pieces of Mathematics](https://www.piecesofmathematics.com).
 
 <div align=center>
       <img width=390 src="https://github-readme-stats.vercel.app/api?username=francescomacri&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Francesco Macrì's GitHub Stats" />
