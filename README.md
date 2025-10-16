@@ -1,3 +1,5 @@
+# About Me
+
 I’m Francesco Macrì, a passionate lifelong learner who is committed to critical thinking and interdisciplinary exploration across Mathematics, Statistics, Computer Science, Physics, Biology, Philosophy, Logic, Psychology, and Law.
 
 <div align=center>
