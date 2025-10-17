@@ -1,6 +1,13 @@
 # About Me
 
-I am a passionate, self-directed learner with a particular focus on the formal sciences—mathematics, logic, and computer science.
+I am Francesco Macrì. 
+My academic degree in a non-mathematical scientific discipline has equipped me with strong analytical skills and a methodical approach to problem-solving.
+
+I am a passionate, self-directed learner with a particular focus on the formal sciences, including the formalization of mathematics and software verification.
+
+I enjoy working independently to explore complex ideas and develop precise, innovative solutions.
+
+I believe critical thinking and rigorous analysis are more important than ever.
 
 <div align=center>
       <img width=390 src="https://github-readme-stats.vercel.app/api?username=francescomacri&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Francesco Macrì's GitHub Stats" />
