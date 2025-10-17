@@ -1,6 +1,6 @@
 # About Me
 
-I’m Francesco Macrì, a passionate lifelong learner who is committed to critical thinking and interdisciplinary exploration across Mathematics, Statistics, Computer Science, Physics, Biology, Philosophy, Logic, Psychology, and Law.
+I am a passionate, self-directed learner with a particular focus on the formal sciences—mathematics, logic, and computer science.
 
 <div align=center>
       <img width=390 src="https://github-readme-stats.vercel.app/api?username=francescomacri&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Francesco Macrì's GitHub Stats" />
