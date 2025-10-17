@@ -3,7 +3,7 @@
 I am Francesco Macrì. 
 My academic degree in a non-mathematical scientific discipline has equipped me with strong analytical skills and a methodical approach to problem-solving.
 
-I am a passionate, self-directed learner with a particular focus on the formal sciences, including the formalization of mathematics and software verification.
+I am a passionate, self-directed learner with a particular focus on the formal sciences, including the formalization of mathematics, software verification, and advanced computational and theoretical frameworks.
 
 I enjoy working independently to explore complex ideas and develop precise, innovative solutions.
 
