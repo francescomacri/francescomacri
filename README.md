@@ -1,6 +1,3 @@
-# About Me
-
-I am Francesco Macrì, a passionate, self-directed learner of mathematics. 
 
 <!--      
 <div align=center>
